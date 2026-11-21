@@ -10,7 +10,7 @@ Get the newest WitcherAccessSetup.exe from the Releases page of this repository 
 
 ## Updates
 
-The mod checks for a new version a few seconds after the game starts. When there is one, it tells you; open the accessibility menu (Ctrl+F8, or Start on a controller) and choose Install update. The game closes, the update installs, and the game starts again. Your settings are kept.
+The mod checks for a new version when the main menu comes up after the intro movies. When there is one, it tells you; open the accessibility menu (Ctrl+F8, or Start on a controller) and choose Install update. The game closes, the update installs, and the game starts again. Your settings are kept.
 
 ## Changes
 
